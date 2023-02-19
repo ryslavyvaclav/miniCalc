@@ -1,2 +1,2 @@
 # miniCalc
-Very simple, lightweight and minimal basic PORTABLE calculator
+Very simple, lightweight, minimal GUI and PORTABLE calculator for Windows
