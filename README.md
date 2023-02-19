@@ -1,3 +1,5 @@
+[DOWNLOAD](https://github.com/ryslavyvaclav/miniCalc/archive/refs/heads/main.zip)
+
 # miniCalc
 GUI & CLI calculator for various platforms! 
   
