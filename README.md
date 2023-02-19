@@ -1,6 +1,8 @@
 [DOWNLOAD all](https://github.com/ryslavyvaclav/miniCalc/archive/refs/heads/main.zip)
+  
   [DOWNLOAD x64 Windows](https://github.com/ryslavyvaclav/miniCalc/files/10776389/miniCalc.x64.zip)
-    [DOWNLOAD x86 Windows](https://github.com/ryslavyvaclav/miniCalc/files/10776390/miniCalc.x86.zip)
+    
+   [DOWNLOAD x86 Windows](https://github.com/ryslavyvaclav/miniCalc/files/10776390/miniCalc.x86.zip)
 
 # miniCalc
 GUI & CLI calculator for various platforms! 
