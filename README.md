@@ -27,3 +27,6 @@ GUI & CLI calculator for various platforms!
 
   
 These miniCalc applications are designed to provide a simple and easy-to-use calculator experience for users on different platforms. Whether you are using a Windows command line, a Linux, macOS (terminal), or a web browser, you can perform basic arithmetic operations with ease using miniCalc.
+
+  
+These scripts are designed to be easy to use and understand, making them a good starting point for anyone looking to create their own calculator application.
