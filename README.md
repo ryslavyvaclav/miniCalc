@@ -1,2 +1,2 @@
 # miniCalc
-Very simple and minimal basic calculator
+Very simple, lightweight and minimal basic calculator
